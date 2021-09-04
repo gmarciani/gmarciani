@@ -41,10 +41,3 @@
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=gmarciani&show_icons=true&theme=light" width = 400>
 </p>
-
-<!--
-**gmarciani/gmarciani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-
