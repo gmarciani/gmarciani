@@ -34,6 +34,7 @@
 
 - 👨‍💻 AWS products I'm working on: [EnginFrame](https://download.enginframe.com/), [Elastic Graphics](https://aws.amazon.com/it/ec2/elastic-graphics/) and [Elastic Inference](https://aws.amazon.com/it/machine-learning/elastic-inference/)
 - 🌱 Personal project I'm working on: [YAMA](https://github.com/gmarciani/yawa)
+- 💡 Channels I suggest: [HPC Tech Shorts](https://www.youtube.com/c/HPCTechShorts), [AWS HPC Blog](https://aws.amazon.com/blogs/hpc/)
 
 <br>
 
