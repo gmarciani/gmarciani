@@ -1,6 +1,5 @@
 ### Hey there! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 
-<div>
 <pre>
 <code>
           _____                    _____                    _____            _____           _______         
@@ -41,7 +40,6 @@
 &nbsp;&nbsp;💬 Ask me about anything <a href="https://github.com/gmarciani/gmarciani/issues">here</a>
 </code>
 </pre>
-</div>
 
 <br>
 
