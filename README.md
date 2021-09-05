@@ -29,9 +29,6 @@
 ➜ ~ whoami
 &nbsp;&nbsp;Giacomo Marciani -- Software Engineer @ Amazon Web Services
 
-➜ ~ pwd
-&nbsp;&nbsp;Cagliari, Sardinia, Italy -- A lovely place to live in!
-
 ➜ ~ whereis gmarciani
 &nbsp;&nbsp;Cagliari (aka "The Sunshine City"), Sardinia, Italy -- A lovely place to live in!
   
