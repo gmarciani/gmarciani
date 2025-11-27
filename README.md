@@ -42,7 +42,3 @@
 </pre>
 
 <br>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gmarciani&show_icons=true&theme=light&count_private=true" width="400">
-</p>
